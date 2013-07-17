@@ -1,0 +1,140 @@
+Deathtrap Dungeon Help File
+
+Deathtrap Dungeon is a text-based adventure game which takes place in a
+fantasy world similar to earth. You are a young warrior who has entered
+the 'Trial of Champions' , a test of strength , stamina and wit , which
+takes place in a labyrinth that no one has ever come out of alive. This
+help will explain  what goes on during the game  and also give you some
+hints is you are struggling.
+
+Equipment
+
+To begin your adventure you have a sword and a backpack with provisions
+of food  and  drink . You have been  training at your  swordmanship and
+exercising to build up your strength. Your initial skills are generated
+randomly as follows. (D6 means random number like a dice roll).
+
+Skill   : D6 + 6
+Stamina : D6 + D6 + 12
+Luck    : D6 + 6
+
+You  will learn later  that your skill , stamina and Luck scores change
+during the game  but they will never  become greater than  your initial
+scores which you have just recieved. There are rare occasions when this
+is not true.
+
+
+BATTLES
+
+During  your  adventure  you will come across creatures which  you have
+to fight or you do not wish to flee from. In this case you need to know
+how  to  fight. Firstly you will be given the creature`s name and their
+skill and stamina scores. Next  you will be given the different options
+available  like  escaping or using a spell  which  you will  hear about
+later.
+The sequence of combat goes as follows:
+    1 The computer  ` rolls two dice `  and  adds  the  values  to  the
+      creature`s skill to create a value for the creature`s called it`s
+      attack strength.
+    2 The computer  does  this for  you as well  and so you  recieve an
+      attack strength
+    3 If your attack strength is higher than the creature`s you win and
+      inflict a wound on  him . This means  the creature white looses 2
+      stamina points. You may  use your luck to do additional damage as
+      you will see later. If  the creature`s attack strength  is higher
+      than yours  then  you are  wounded  and  have  2  stamina  points
+      deducted.You may also use luck at this point which you will learn
+      about later . This  sequence is repeated until  either you or the
+      creature has  their stamina score  reduced  to 0 and  is  killed.
+
+ESCAPING
+
+Sometimes  you  may be given  the option  to flee . You would  use this
+option normally if the battle is not going well . However if you choose
+to run away , the creature  automatically  wounds you , so  you have  2
+stamina points subtracted . You may not use your luck against the wound
+if you want.
+
+Fighting more than one creature
+
+Depending on  the situation when  you have a fight  with more  than one
+creature, you will treat them as one creature or you will have to fight
+them one at a time.
+
+Luck
+
+At various times  during your adventure , either in battle  or when you
+come across situations where  you could be unlucky  or lucky ( you will
+learn about those at the actual places themselves ) , you may test your
+luck to see if you are lucky . Beware that using your luck  can be very
+dangerous because if you are unlucky it could be disastrous. When using
+luck the computer will `roll two dice`. If the number that is rolled is
+equal to or less than your luck score  then you are  lucky  and  things
+will go in your favour. However if the number is greater than your luck
+score then you`re unlucky and will be penalized.Everytime you test your
+luck ( as the procedure is called) your luck score is decreased by one.
+You will see that the more you use test your luck the more chance there
+is of you failing.
+
+Using luck in battles
+
+Apart  from when  you are told you can  use luck  the option  is always
+available when  you are in a battle . You do  this to see  if you  have
+inflicted a more  severe wound which causes another 2 stamina points to
+be subtracted from the creature . You do this  by using  test your luck
+just like described before. If you are lucky then it is a bad wound and
+an extra 2 stamina points are subtracted from the creature . If however
+you are not lucky , the wound  turns out to be a graze  and therefore 1
+stamina point  is returned  to the stamina  of the creature  so that it
+only looses 1 stamina point for the hit.If you are wounded in a battle,
+you can use test your luck to see if it was not a bad wound. If you are
+lucky you manage  to avoid  any major damage  so you recieve  1 stamina
+point back. If you are unlucky an extra stamina point is deducted.
+
+Restoring Skill, Stamina and Luck
+Skill
+
+Your skill will rarely change during the game  but occasionally you may
+have your skill  increased by , for example , a Magic Weapon . Remember
+that you can only carry one Magic Weapon so if you pick up Magic Weapon
+with a  lower skill  bonus  your skill  will decrease . It may  also be
+decreased by , for example , a spell . Your skill may  never exceed its
+initial value  except  if stated otherwise . If you have  the Potion of
+Skill covered later ) you can  drink it  to restore  your skill  to its
+initial value at any time.
+
+Stamina and Provisions
+
+Your stamina  score will  change a lot  in the game as  you have  to do
+battle with  creatures and  you have  to perform tasks . Your  backpack
+contains enough provisions for 10 meals which  you can have at any time
+except during battle . Eating a meal restores 4 stamina  and you lose 1
+meal. Taking the Potion of Strength will give you  the stamina you lost
+at any time.
+
+Luck
+
+Your luck score will sometimes increase  during your adventure when you
+are very lucky. You have also heard that it goes down  when you have to
+test your luck. Remember that as with skill and stamina your score will
+almost never get bigger than its initial value. If you drink the Potion
+of Fortune you get your luck`s  initial score  increased by 1 point and
+your luck score  is restored to its new initial value.
+
+Equipment
+
+You start your adventure with the bare minimum but you may find and buy
+things along the way. You have a sword and are leather armour. You have
+a backpack  that  contains  your provisions and will hold anything  you
+might pick up.
+
+Potions
+
+You may also take 1 bottle of Potion. The Potions available are :
+1. Potion of Skill : restores skill.
+2. Potion of Strength : restores stamina.
+3. Potion of Fortune  : restores luck and adds 1 to initial value.
+
+These potions can be taken once whenever you want except during battle.
+
+Press q to quit.
